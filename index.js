@@ -1,1 +1,1 @@
-export {default} from "./myscript.js";
+export {default} from "./scripts/myscript.js";
